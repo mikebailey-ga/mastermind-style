@@ -1,0 +1,28 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header {
+  background-color: white;
+  height: 50px;
+  padding: 10px;
+  color: grey;
+  font-size: 22px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin-bottom: 30px;
+}
+
+
+.footer {
+  text-align: center;
+  font-size: 18px;
+  color: grey;
+  margin-top: 30px;
+}
+
+.rightColumn {
+  align-items: center;
+}
